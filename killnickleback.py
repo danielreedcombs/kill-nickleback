@@ -1,6 +1,5 @@
 
 # Define a set that contains tuples. Each tuple should contain two strings:
-t
 songs = {
     ('Nickelback', 'How You Remind Me'),
     ('Will.i.am', 'That Power'),
